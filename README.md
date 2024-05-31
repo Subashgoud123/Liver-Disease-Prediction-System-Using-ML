@@ -42,4 +42,19 @@ the model fitting is stored in Model.ipynd, rmodule.py file.
 Evaluate the model by testing the model giving different valid inputs and verify
 
 # Final.py
-The final.
+The final.py consists of the GUI code
+the modules used in the gui are PySide , qt5
+Steps to install qt5 using cmd
+
+1. C:/>pip install pyqt5.tools
+
+The .ui file is coverted to .py file
+
+# use this link to download .exe file in local system.
+
+https://drive.google.com/file/d/12IOatts1wU4PiRzdHAYlx3YYjsGeJmvY/view?usp=sharing
+
+# use this link to download model.pkl file in local system.
+
+https://drive.google.com/file/d/1K6pUMPk9mISkA8LtnlgVD5b7G1TFIUNZ/view?usp=sharing
+
